@@ -1,8 +1,8 @@
-[Ссылка на видео по этому элементу][def]
+[Ссылка на видео по этому элементу][video]
 
-[def]: https://youtu.be/Ufe6wscTyfw
+[video]: https://youtu.be/Ufe6wscTyfw
 
 ---
-[Ссылка на сайт по этому элементу][def]
+[Ссылка на сайт по этому элементу][site]
 
-[def]: https://schuprovv-hash.github.io/Coding-By-Sergey/Elements/1_button-effects/index.html
+[site]: https://schuprovv-hash.github.io/Coding-By-Sergey/Elements/1_button-effects/index.html
